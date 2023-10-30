@@ -3,5 +3,6 @@ public class test {
         System.out.println("Hello GitHub");
         System.out.println("Commit 1");
         System.out.println("Commit 2");
+        System.out.println("Commit 3");
     }
 }
